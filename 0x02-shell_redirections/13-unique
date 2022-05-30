@@ -1,0 +1,3 @@
+#!/bin/bash
+sort |iniq -u
+sort | uniq -u
